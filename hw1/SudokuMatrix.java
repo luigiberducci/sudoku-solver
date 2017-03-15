@@ -5,7 +5,7 @@ import java.math.BigInteger;
  */
 public class SudokuMatrix 
 {
-	Main.gridSymbol[] valoriCelle;	//Array di valori v1,v2,...,v9 o null (valore ancora non determinato)
+    Main.gridSymbol[] valoriCelle;	//Array di valori v1,v2,...,v9 o null (valore ancora non determinato)
     boolean[][] candidatiScartati;	//Array di boolean[9], rappresenta vettore caratteristico dei candidati della cella
     								//se l'elemento i-esimo è false il valore i-esimo è un candidato della cella
     								//se l'elemento i-esimo è true il valore i-esimo non è un candidato della cella
