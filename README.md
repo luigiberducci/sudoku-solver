@@ -21,7 +21,7 @@ This is a copy of the last version of the code, it was uploaded on GitHub few ye
 ## License
 
 This project is licensed under the MIT License.
-Copyright (c) 2015 Luigi Berducci
+Copyright (c) 2015 Luigi Berducci, Angelo Di Mambro, Karim Mejri
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
